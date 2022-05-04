@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\bin\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\bin\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\bin\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\bin\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\bin\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\bin\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\EjercicioPairProgrammingDia03\obj\Debug\netcoreapp3.1\EjercicioPairProgrammingDia03.genruntimeconfig.cache

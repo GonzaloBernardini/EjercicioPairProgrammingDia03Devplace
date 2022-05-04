@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\bin\Debug\netcoreapp3.1\ClasesSumaYresta.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\bin\Debug\netcoreapp3.1\ClasesSumaYresta.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\bin\Debug\netcoreapp3.1\ClasesSumaYresta.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\bin\Debug\netcoreapp3.1\ClasesSumaYresta.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\bin\Debug\netcoreapp3.1\ClasesSumaYresta.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\bin\Debug\netcoreapp3.1\ClasesSumaYresta.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.genruntimeconfig.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\AticmaDevplace\Dia03\EjercicioPairProgramming\ClasesSumaYresta\obj\Debug\netcoreapp3.1\ClasesSumaYresta.csproj.AssemblyReference.cache

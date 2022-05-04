@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EjercicioPairProgrammingDia03/1.0.0": {
+        "runtime": {
+          "EjercicioPairProgrammingDia03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioPairProgrammingDia03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
